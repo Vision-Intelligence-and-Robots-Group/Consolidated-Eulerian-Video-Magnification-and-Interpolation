@@ -2,18 +2,21 @@
 
 Official impelemntation of the consolidated Eulerian video magnificaiton and interpolation methods. 
 
+-- run "main.m" to get the magnified vedio
 
-Please cite the following papers
+Codes and sample vedio "face.mp4" are obtained on the project web page: http://people.csail.mit.edu/mrub/vidmag/
 
-@article{wu2012eulerian,
-  title={Eulerian video magnification for revealing subtle changes in the world},
-  author={Wu, Hao-Yu and Rubinstein, Michael and Shih, Eugene and Guttag, John and Durand, Fr{\'e}do and Freeman, William},
-  journal={ACM transactions on graphics (TOG)},
-  volume={31},
-  number={4},
-  pages={1--8},
-  year={2012},
-  publisher={ACM New York, NY, USA}
+-- Please cite the following papers if you use our code.
+
+@article{hong2019characterizing,
+  title={Characterizing subtle facial movements via Riemannian manifold},
+  author={Hong, Xiaopeng and Peng, Wei and Harandi, Mehrtash and Zhou, Ziheng and Pietik{\"a}inen, Matti and Zhao, Guoying},
+  journal={ACM Transactions on Multimedia Computing, Communications and Applications},
+  volume={15},
+  number={3s},
+  pages={94},
+  year={2019},
+  publisher={Association for Computing Machinery (ACM)}
 }
 
 @inproceedings{peng2019boost,
@@ -24,3 +27,7 @@ Please cite the following papers
   year={2019},
   organization={IEEE}
 }
+
+# Reference
+
+[1] Wu, H.Y., Rubinstein, M., Shih, E., Guttag, J., Durand, F. and Freeman, W., 2012. Eulerian video magnification for revealing subtle changes in the world. ACM transactions on graphics (TOG), 31(4), pp.1-8.
