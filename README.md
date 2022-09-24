@@ -1,6 +1,6 @@
 # Consolidated-Eulerian-Video-Magnification-and-Interpolation
 
-Official impelemntation of the consolidated Eulerian video magnificaiton and interpolation methods. 
+Official implementation of the consolidated Eulerian video magnification and interpolation (ACM TOMM19, IEEE FG 2018).
 
 -- run "main.m" to get the magnified vedio
 
