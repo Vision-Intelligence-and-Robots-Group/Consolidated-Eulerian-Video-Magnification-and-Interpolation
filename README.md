@@ -6,27 +6,13 @@ Official implementation of the consolidated Eulerian video magnification and int
 
 Codes and sample vedio "face.mp4" are obtained on the project web page: http://people.csail.mit.edu/mrub/vidmag/
 
+
+# Citation 
 -- Please cite the following papers if you use our code.
 
-@article{hong2019characterizing,
-  title={Characterizing subtle facial movements via Riemannian manifold},
-  author={Hong, Xiaopeng and Peng, Wei and Harandi, Mehrtash and Zhou, Ziheng and Pietik{\"a}inen, Matti and Zhao, Guoying},
-  journal={ACM Transactions on Multimedia Computing, Communications and Applications},
-  volume={15},
-  number={3s},
-  pages={94},
-  year={2019},
-  publisher={Association for Computing Machinery (ACM)}
-}
+Hong, X., Peng, W., Harandi, M., Zhou, Z., Pietikäinen, M. and Zhao, G., 2019. Characterizing subtle facial movements via Riemannian manifold. ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 15(3s), pp.1-24.
 
-@inproceedings{peng2019boost,
-  title={A boost in revealing subtle facial expressions: A consolidated eulerian framework},
-  author={Peng, Wei and Hong, Xiaopeng and Xu, Yingyue and Zhao, Guoying},
-  booktitle={2019 14th IEEE International Conference on Automatic Face \& Gesture Recognition (FG 2019)},
-  pages={1--5},
-  year={2019},
-  organization={IEEE}
-}
+Peng, W., Hong, X., Xu, Y. and Zhao, G., 2019, May. A boost in revealing subtle facial expressions: A consolidated eulerian framework. In 2019 14th IEEE International Conference on Automatic Face & Gesture Recognition (FG 2019) (pp. 1-5). IEEE.
 
 # Reference
 
