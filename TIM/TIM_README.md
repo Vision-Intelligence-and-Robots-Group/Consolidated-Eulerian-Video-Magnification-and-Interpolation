@@ -1,4 +1,4 @@
-# Consolidated-Eulerian-Video-Magnification-and-Interpolation
+# A Compact Representation of Visual Speech Data Using Latent Variables
 
 A implementation demo of the temporal interpolation model (TPAMI 2014).
 
