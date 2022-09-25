@@ -3,6 +3,7 @@
 An implementation demo of the temporal interpolation model (TPAMI 2014).
 
 -- run "main_image2image.m" to interpolate for images.
+
 -- run "main_vedio2vedio.m" to interpolate for video.
 
 The core codes of temporal interpolation model are "TrainPGM.m" and "synPGM.m".
