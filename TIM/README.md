@@ -6,7 +6,7 @@ An implementation demo of the temporal interpolation model (TPAMI 2014).
 
 -- run "main_vedio2vedio.m" to interpolate for video.
 
-The core codes of temporal interpolation model are "TrainPGM.m" and "synPGM.m".
+The core codes of the temporal interpolation model are "TrainPGM.m" and "synPGM.m".
 
 The path of input images for test is "./test_img/", and the vedio "test_vedio.avi" is for testing.
 The path of putput is "./output_tim/". 
