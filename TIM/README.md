@@ -1,6 +1,6 @@
 # A Compact Representation of Visual Speech Data Using Latent Variables
 
-A implementation demo of the temporal interpolation model (TPAMI 2014).
+An implementation demo of the temporal interpolation model (TPAMI 2014).
 
 -- run "main_image2image.m" to interpolate for images.
 -- run "main_vedio2vedio.m" to interpolate for video.
