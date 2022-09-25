@@ -6,7 +6,7 @@ Official implementation of the consolidated Eulerian video magnification and int
 
 Codes and sample vedio "face.mp4" are obtained on the project web page: http://people.csail.mit.edu/mrub/vidmag/
 
-See the demo of temporal interpolation model in "./TIM/"
+See the demo of temporal interpolation model in "./TIM/": https://github.com/Vision-Intelligence-and-Robots-Group/Consolidated-Eulerian-Video-Magnification-and-Interpolation/tree/main/TIM
 
 # Citation 
 -- Please cite the following papers if you use our code.
